@@ -1,6 +1,3 @@
-# -llama_cpp_WebUI
- llama_cpp_WebUI
-
 ---
 license: apache-2.0
 tags:
@@ -17,8 +14,14 @@ llama_cpp_WebUI
 
 ## Gemma-3
 
+CPU.  RAM 20GB
+OR
+GPU.  4 VRAM
 
-![1](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/qoYFWiyKbxfec608p3AbF.png)
+
+<img width="1913" height="965" alt="1" src="https://github.com/user-attachments/assets/879f59ad-39b8-4fc8-8920-72d984691926" />
+
+
 
 1. gemma-3-12b-it-Q4_K_S.gguf
 2. mmproj-model-f16-12B.gguf
@@ -26,12 +29,40 @@ llama_cpp_WebUI
 
 ## Qwen3
 
+
+CPU.  RAM 25GB
+OR
+GPU.  4 VRAM
+
+
 1. Qwen3-VL-2B-Instruct-Q8_0.gguf
 2. mmproj-Qwen3-VL-2B-Instruct-Q8_0.gguf
 
 
+<img width="1283" height="607" alt="2" src="https://github.com/user-attachments/assets/14ae3781-d218-400d-a738-586d35349c23" />
 
-![2](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/jmba7H290hQTPhBVL-v5Q.png)
+
+
+
+## Qwen2.5-Omni
+
+
+CPU.  RAM 40GB
+OR
+GPU.  8 VRAM
+
+1. Qwen2.5-Omni-7B-BF16.gguf  
+2. mmproj-F16.gguf           2GB
+
+
+
+
+<img width="1301" height="673" alt="4" src="https://github.com/user-attachments/assets/e321dfc4-fdac-453b-b5f6-3bfd25cc676f" />
+
+
+
+
+
 
 
 
@@ -42,9 +73,13 @@ llama_cpp_WebUI
 ## Llama-3.2
 
 
+CPU.  RAM 10GB
 
 
-![3](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/VJ9-OMFQYX8x-4HhhtknP.png)
+
+<img width="1395" height="873" alt="3" src="https://github.com/user-attachments/assets/d6682b09-79a2-4be4-8f34-2318e2d2751d" />
+
+
 
 
 1. Llama-3.2-1B-Instruct-Q4_K_M.gguf
