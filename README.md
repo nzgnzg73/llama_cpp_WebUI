@@ -11,6 +11,19 @@ nzgnzg73
 
 llama_cpp_WebUI
 
+
+
+## Want to talk or ask something?
+Just click the YouTube link below! You'll find my 📧 email there and can message me easily. 👇
+
+🎥 YouTube Channel: @nzg73
+🔗 https://youtube.com/@NZG73
+
+
+## Contact Email 👇👇👀
+E-mail:-
+nzgnzg73@gmail.com
+
 ## Image-Text-to-Text Models
 
 ## Gemma-3
