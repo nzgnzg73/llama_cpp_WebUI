@@ -6,12 +6,16 @@ tags:
 - text-to-Text
 - llama_cpp
 - any to any
+- Multimodal AI
+- video-Text-to-Text
+- Llama Model Switcher
 ---
 nzgnzg73
 
 llama_cpp_WebUI
 
-
+Github
+https://github.com/nzgnzg73/llama_cpp_WebUI
 
 ## Want to talk or ask something?
 Just click the YouTube link below! You'll find my 📧 email there and can message me easily. 👇
@@ -24,6 +28,28 @@ Just click the YouTube link below! You'll find my 📧 email there and can messa
 E-mail:-
 nzgnzg73@gmail.com
 
+
+
+
+
+![Gemini_Generated_Image_rx1z0erx1z0erx1z](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/7Cjp8zMEtdftA0lfJzKZL.png)
+
+
+## Llama Model Switcher
+
+CMD
+model_switcher.py
+
+pip install flask
+
+pip install flask psutil GPUtil
+
+![1](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/PUekE98unK4E-wCue-Dle.png)
+
+
+
+![2](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/CZvP7V61-SE4o4_Pu38_s.png)
+
 ## Image-Text-to-Text Models
 
 ## Gemma-3
@@ -33,12 +59,27 @@ OR
 GPU.  4 VRAM
 
 
-<img width="1913" height="965" alt="1" src="https://github.com/user-attachments/assets/879f59ad-39b8-4fc8-8920-72d984691926" />
-
-
+![1](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/qoYFWiyKbxfec608p3AbF.png)
 
 1. gemma-3-12b-it-Q4_K_S.gguf
 2. mmproj-model-f16-12B.gguf
+
+
+## -Text-to-Text Models
+## GPT OSS 20
+
+
+
+
+![2](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/lYXBozCQV-SmpXDk4ca9I.png)
+
+
+
+
+
+![Picsart_25-11-30_03-51-56-362](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/II21vWhc6UJwMwAqw1qaQ.png)
+
+
 
 
 ## Qwen3
@@ -53,9 +94,8 @@ GPU.  4 VRAM
 2. mmproj-Qwen3-VL-2B-Instruct-Q8_0.gguf
 
 
-<img width="1283" height="607" alt="2" src="https://github.com/user-attachments/assets/14ae3781-d218-400d-a738-586d35349c23" />
 
-
+![2](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/jmba7H290hQTPhBVL-v5Q.png)
 
 
 ## Qwen2.5-Omni
@@ -70,8 +110,7 @@ GPU.  8 VRAM
 
 
 
-
-<img width="1301" height="673" alt="4" src="https://github.com/user-attachments/assets/e321dfc4-fdac-453b-b5f6-3bfd25cc676f" />
+![4](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/v0ACCIgBmFUmcMH5rTjj_.png)
 
 
 
@@ -91,9 +130,8 @@ CPU.  RAM 10GB
 
 
 
-<img width="1395" height="873" alt="3" src="https://github.com/user-attachments/assets/d6682b09-79a2-4be4-8f34-2318e2d2751d" />
 
-
+![3](https://cdn-uploads.huggingface.co/production/uploads/68edac11571026107ce50f6c/VJ9-OMFQYX8x-4HhhtknP.png)
 
 
 1. Llama-3.2-1B-Instruct-Q4_K_M.gguf
